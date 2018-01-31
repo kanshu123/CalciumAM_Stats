@@ -1,4 +1,4 @@
-,Area,Mean,Min,Max,Perim.,Major,Minor,Angle,Circ.,AR,Round,Solidity
+,Area,Mean Intensity,Min,Max,Perim.,Major,Minor,Angle,Circ.,AR,Round,Solidity
 1,0.907,20.532,0,39,5.875,1.79,0.645,87.07,0.33,2.773,0.361,0.58
 2,1.037,21.639,0,43,4.974,1.498,0.882,57.122,0.527,1.699,0.589,0.764
 3,1,22.816,0,46,5.708,2.521,0.505,13.714,0.386,4.989,0.2,0.922
